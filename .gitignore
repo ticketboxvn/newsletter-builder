@@ -1,0 +1,15 @@
+*.zip
+*.rar
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.psd
+*.DS_Store
+*.xlsx
+*.xls
+*.mp3
+*.wav
+*.mp4
+*.gov
+/node_modules
